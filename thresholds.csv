@@ -1,0 +1,4 @@
+sensor_type,max_threshold
+Temperature,40.0
+Humidity,70.0
+Vibration,0.3
